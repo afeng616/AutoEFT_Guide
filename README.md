@@ -70,3 +70,6 @@ python3.x
 * 对老师默认评价为优秀（总分95.02）、意见为空
 ![效果1](./images/result1.png)
 ![效果2](./images/result2.png)
+
+The detail code is private!
+Contact with me if u want.
